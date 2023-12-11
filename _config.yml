@@ -25,15 +25,15 @@ instagram_username: griffin.steffy
 linkedin_username: griffinsteffy
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: griffin.steffy
+youtube_username: griffinsteffy
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
+additional_links:
+- title: griffinsteffy.com
+  icon: fas fa-globe
+  url: https://www.griffinsteffy.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -56,10 +56,10 @@ content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
   #   content:
-      # - layout: top-middle
-      #   title: Super awesome project
-      #   link: github.com/sproogen
-      #   # link_text: Project Website
+  #     - layout: top-middle
+  #       title: Homelab monitoring
+  #       link: github.com/griffinsteffy/homelab-monitoring
+  #       link_text: Project Website
       #   additional_links:
       #     - title:  sproogen/modern-resume-theme
       #       icon: fab fa-github
